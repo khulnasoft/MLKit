@@ -1,0 +1,29 @@
+- title: Blog Posts
+  info : Blog Posts that are relevant to using GitHub for Data Science and ML Ops.
+  link : "/blog"
+  icon : "https://ghicons.github.com/assets/images/blue/svg/issue.svg"
+
+- title: GitHub Actions
+  info : A collection of open source GitHub Actions that facilitate ML Ops.
+  link : "/actions"
+  icon : "https://ghicons.github.com/assets/images/blue/svg/Actions.svg"
+
+- title: Examples
+  info : Repository templates, examples, and related projects that demonstrate how various GitHub Features can be used for Data Science and ML Ops.
+  link : "/examples"
+  icon : "https://ghicons.github.com/assets/images/blue/svg/Collection.svg"
+
+- title: Talks
+  info : Recorded talks, demos and tutorials.
+  link : "/talks"
+  icon : "https://ghicons.github.com/assets/images/blue/svg/Enterprise%20Observability.svg" 
+
+- title: Team
+  info : More information about the team that works on MLOps at GitHub.
+  link : "/team"
+  icon : "https://ghicons.github.com/assets/images/blue/svg/GitHub%20for%20teams.svg" 
+
+- title: Docs
+  info : Documentation and resources for getting started.
+  link : "https://docs.mlops-github.com/"
+  icon : "https://ghicons.github.com/assets/images/blue/svg/Documentation.svg"

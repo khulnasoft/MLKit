@@ -1,0 +1,54 @@
+- title: "Great Expectations - CI/CD For Data Pipelines"
+  info : "Validate the integrity of your data and the health of your data pipelines."
+  link : "https://github.com/marketplace/actions/great-expectations-data"
+  tags : [Data-Pipelines]
+
+- title: "Dockerize GitHub repositories automatically as a Jupyter Server"
+  info : Automatically Dockerize GitHub repos and serve their contents with the appropriate dependencies with Jupyter or R-Markdown.  Can optionally be used in a complimentary way with mybinder.org
+  link : "https://github.com/jupyterhub/repo2docker-action"
+  tags: [Jupyter]
+
+- title: "Submit Argo Workflows To GKE "
+  info : "Instantiate machine learning pipelines using Argo on Google Kubernetes Engine."
+  link : "https://github.com/marketplace/actions/submit-argo-workflows-to-gke"
+  tags : [Kubernetes, Google-Cloud, Argo]
+
+- title: "Submit Argo Workflows on K8s (Cloud agnostic)"
+  info : "Instantiate machine learning pipelines using Argo on any Kubernetes cluster.  This action is cloud agnostic."
+  link : "https://github.com/marketplace/actions/submit-argo-workflows-from-github"
+  tags : [Kubernetes, Argo]
+
+- title: "Fetch metrics from Weights & Biases"
+  info : Retrieve model metrics and metadata from Weights & Biases.  You can use this for automated testing and reporting in pull requests.
+  link : "https://github.com/marketplace/actions/get-runs-from-weights-biases"
+  tags: ["Experiment Tracking"]
+
+- title: "Compile, deploy and run Kubeflow pipelines"
+  info : Launch Kubeflow pipelines on Google Cloud.
+  link : "https://github.com/marketplace/actions/kubeflow-compile-deploy-and-run"
+  tags: [Kubeflow]
+
+- title: Create Azure ML Workspace
+  link : https://github.com/marketplace/actions/azure-machine-learning-workspace
+  info:  Creates an Azure Machine Learning workspace.
+  tags: [Azure]
+
+- title:  Manage Azure Compute Resources
+  link : "https://github.com/marketplace/actions/azure-machine-learning-compute-action"
+  info : Create, destroy and modify Azure compute resources.
+  tags: [Azure]
+
+- title:  Azure ML Run Jobs
+  link : "https://github.com/marketplace/actions/azure-machine-learning-run-action"
+  info : Run a training job, experiment or pipeline on Azure.
+  tags: [Azure]
+
+- title:  Azure ML Register Models
+  link : "https://github.com/marketplace/actions/azure-machine-learning-register-model-action"
+  info: Register a model on Azure Machine Learning.
+  tags: [Azure]
+
+- title:  Azure ML Deploy Models
+  linr : "https://github.com/marketplace/actions/azure-machine-learning-deploy-action"
+  info: Deploy a model to AKS or ACI for inference.
+  tags: [Azure]
